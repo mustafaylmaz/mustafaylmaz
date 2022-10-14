@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my [projects](https://github.com/mustafaylmaz?tab=repositories) are available at 
+- 👨‍💻 All of my [projects](https://github.com/mustafaylmaz?tab=repositories)
 
 - 💬 Ask me about **spring, node.js**
 
